@@ -1,6 +1,6 @@
 {
   "name": "sec-material-themes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple SCSS themes to kick start your project. Provides a consistent responsive style across mobile and desktop browsers for the base HTML elements.",
   "repository": {
     "type": "git",
